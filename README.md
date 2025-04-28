@@ -11,7 +11,23 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Avishka-bandara&show_icons=true&theme=radical" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" height="170"/> </p>
 
 
-<p align="center"> <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> </p>
+<p align="center"> 
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a> 
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/avishka-bandara-49049a232)">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+ <a href="https://www.facebook.com/avishka.bandara.01">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/your-instagram-username">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=I'm+not+coding...I'm+summoning+magic.;01000110+01010101+01001110" /> </div>
