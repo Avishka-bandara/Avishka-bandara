@@ -4,6 +4,21 @@
 ![Stars](https://img.shields.io/github/stars/Avishka-bandara/Avishka-bandara)
 ![Visitor Count](https://profile-counter.glitch.me/Avishka-bandara/count.svg)
 
+Identity:     Human. Probably.
+Location:     Somewhere between 0s and 1s.
+Current Mode: ⚡ Always Learning | 👾 Always Breaking | 🔥 Always Building
+Alignment:    Chaotic Good
+
+
+
+while True:
+    learn()
+    code()
+    break_things()
+    rebuild()
+    level_up()
+
+
 
 ### 🛠 Tech Stack
 🧙 Languages: Dart | JAVA | PHP | Python <br>
@@ -16,7 +31,7 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Avishka-bandara&show_icons=true&theme=radical" height="170"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" height="170"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avishka-bandara&theme=radical" height="170"/> 
 </p>
 
 
@@ -39,5 +54,5 @@
 </p>
 
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=The+only+limit+to+our+realization+of+tomorrow+is+our+doubts+of+today+ ;01000110+01010101+01001110" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=The+only+limit+to+our+realization+of+tomorrow+is+our+doubts+of+today;01000110+01010101+01001110" /> </div>
 
