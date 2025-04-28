@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=⚡%20[Avishka%20bandara]%20⚡&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling" /> <br> 
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text= 🧙 %20Avishka%20bandara%20&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling" /> <br> 
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Stars](https://img.shields.io/github/stars/Avishka-bandara/Avishka-bandara)
