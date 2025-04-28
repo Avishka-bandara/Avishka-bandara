@@ -1,8 +1,8 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=⚡%20[Avishka%20bandara]%20⚡&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling" /> <br> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/> </div>
 
-🧙 Languages: Dart | JAVA | PHP | Python
-🛠️ Frameworks: Laravel | Flutter | MEARN | Wordpress
-🧠 Databases: Firebase | MySQL
+🧙 Languages: Dart | JAVA | PHP | Python <br>
+🛠️ Frameworks: Laravel | Flutter | MEARN | Wordpress <br>
+🧠 Databases: Firebase | MySQL <br>
 🔧 Tools: GitHub | VSCode | Arduino | 
 
 
