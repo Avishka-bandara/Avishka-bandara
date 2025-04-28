@@ -15,16 +15,13 @@
 🔧 Tools: GitHub | VSCode | Arduino
 </div>
 
-<details open> <summary>🧨 Fun Secrets</summary>
-🎮 Gaming is real life.
-
-🕶️ Dark mode only.
-
-⚡ Believer in caffeine-based lifeforms.
-
-🚀 Side quest master.
-
-</details>
+<div align="center">
+  <details open> <summary>🧨 Fun Secrets</summary>
+    🧘‍♂️ <b>Calm & Silent.</b> <br><br>
+    🧩 <b>Creative Problem Solving.</b> <br><br>
+    🚗 <b>Classic Automotive Enthusiast.</b>
+  </details>
+  </div>
 
 
 <p></p>
