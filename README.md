@@ -13,9 +13,18 @@
 🛠️ Frameworks: Laravel | Flutter | MEARN | Wordpress <br>
 🧠 Databases: Firebase | MySQL <br>
 🔧 Tools: GitHub | VSCode | Arduino
-
-
 </div>
+
+<details open> <summary>🧨 Fun Secrets</summary>
+🎮 Gaming is real life.
+
+🕶️ Dark mode only.
+
+⚡ Believer in caffeine-based lifeforms.
+
+🚀 Side quest master.
+
+</details>
 
 
 <p></p>
