@@ -1,1 +1,1 @@
-# avishka
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=⚡%20[YOUR%20NAME]%20⚡&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling" /> <br> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/> </div>
