@@ -1,5 +1,9 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=⚡%20[Avishka%20bandara]%20⚡&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling" /> <br> 
 
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
+
+
 🧙 Languages: Dart | JAVA | PHP | Python <br>
 🛠️ Frameworks: Laravel | Flutter | MEARN | Wordpress <br>
 🧠 Databases: Firebase | MySQL <br>
@@ -12,19 +16,19 @@
 
 
 <p align="center"> 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:your-email@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> 
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/avishka-bandara-49049a232)">
+  <a href="https://www.linkedin.com/in/avishka-bandara-49049a232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
-  <a href="https://twitter.com/your-twitter">
+  <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
- <a href="https://www.facebook.com/avishka.bandara.01">
+ <a href="https://www.facebook.com/avishka.bandara.01" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/your-instagram-username">
+  <a href="https://instagram.com/your-instagram-username" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
