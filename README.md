@@ -10,3 +10,14 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" height="170"/> </p>
 
+
+<details open> <summary>🧨 Fun Secrets</summary>
+🎮 Gaming is real life.
+
+🕶️ Dark mode only.
+
+⚡ Believer in caffeine-based lifeforms.
+
+🚀 Side quest master.
+
+</details>
