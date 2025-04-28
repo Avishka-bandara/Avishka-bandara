@@ -39,5 +39,5 @@
 </p>
 
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&center=true&width=800&speed=50&lines=The+only+limit+to+our+realization+of+tomorrow+is+our+doubts+of+today;01000110+01010101+01001110+01010101+01010101+" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&center=true&width=1000&speed=50&lines=The+only+limit+to+our+realization+of+tomorrow+is+our+doubts+of+today;01000110+01010101+01001110+01010101+01010101+" /> </div>
 
