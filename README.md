@@ -6,10 +6,15 @@
 
 
 ### 🛠 Tech Stack
+<div align="justify">
+
 🧙 Languages: Dart | JAVA | PHP | Python <br>
 🛠️ Frameworks: Laravel | Flutter | MEARN | Wordpress <br>
 🧠 Databases: Firebase | MySQL <br>
-🔧 Tools: GitHub | VSCode | Arduino | 
+🔧 Tools: GitHub | VSCode | Arduino
+
+</div>
+
 
 <p></p>
 
