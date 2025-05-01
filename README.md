@@ -27,8 +27,8 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Avishka-bandara&show_icons=true&theme=radical" height="170"/> 
-  <img src="https://streak-stats.demolab.com?user=Avishka-bandara&theme=radical" height="170"/>
-
+<!--   <img src="https://streak-stats.demolab.com?user=Avishka-bandara&theme=radical" height="170"/>
+ -->
 </p>
 
 
