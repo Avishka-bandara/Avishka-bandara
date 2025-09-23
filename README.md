@@ -2,7 +2,8 @@
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Stars](https://img.shields.io/github/stars/Avishka-bandara/Avishka-bandara)
-![Visitor Count](https://profile-counter.glitch.me/avishka-bandara/count.svg)
+![Visitor Count]<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Avishka-bandara.github/visits" />
+
 
 
 
