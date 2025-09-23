@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Stars](https://img.shields.io/github/stars/Avishka-bandara/Avishka-bandara)
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Avishka-bandara.github/visits)
+<img src="https://komarev.com/ghpvc/?username=Avishka-bandara&label=Visitors&color=blue&style=for-the-badge" alt="profile views" />
 
 
 
