@@ -2,7 +2,8 @@
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Stars](https://img.shields.io/github/stars/Avishka-bandara/Avishka-bandara)
-![Visitor Count](https://profile-counter.glitch.me/Avishka-bandara/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/avishka-bandara/count.svg)
+
 
 
 ### 🛠 Tech Stack
