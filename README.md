@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Avishka-bandara&theme=vision_friendly_dark" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Avishka-bandara&theme=vision_friendly_dark&utcOffset=8" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Avishka-bandara&theme=vision_friendly_dark&utcOffset=5.5" height="150"/>
 </p>
 
 
