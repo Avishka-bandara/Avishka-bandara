@@ -9,8 +9,8 @@
 
 ### 🛠 Tech Stack
 <div align="center">
-  🧙 Languages: Dart | JAVA | PHP | Python <br>
-  🛠️ Frameworks: Laravel | Flutter | MEARN | Wordpress <br>
+  🧙 Languages: Dart | PHP | <br>
+  🛠️ Frameworks: Laravel | Flutter | Wordpress <br>
   🧠 Databases: Firebase | MySQL <br>
   🔧 Tools: GitHub | VSCode | Arduino
 </div>
