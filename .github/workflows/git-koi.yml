@@ -18,6 +18,7 @@ jobs:
         with:
           # Generates the koi based on your profile history
           github_username: ${{ github.repository_owner }}
+          output_path: koi.gif
 
       - name: Commit and Push Changes
         run: |
